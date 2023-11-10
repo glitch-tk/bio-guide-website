@@ -1,6 +1,5 @@
 ---
-title: About Goldydocs
-linkTitle: About
+title: Trifold
 menu: {main: {weight: 10}}
 ---
 
