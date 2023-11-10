@@ -45,13 +45,13 @@ For announcement of latest features etc.
 {{% /blocks/section %}}
 
 
-{{% blocks/section %}}
+<!-- {{% blocks/section %}}
 This is the second section
 {.h1 .text-center}
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->
 
 
-{{% blocks/section type="row" %}}
+<!-- {{% blocks/section type="row" %}}
 
 {{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
 Get the Goldydocs app!
@@ -68,10 +68,10 @@ contributions workflow on **GitHub**. New users are always welcome!
 For announcement of latest features etc.
 {{% /blocks/feature %}}
 
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->
 
 
-{{% blocks/section %}}
+<!-- {{% blocks/section %}}
 This is the another section
 {.h1 .text-center}
-{{% /blocks/section %}}
+{{% /blocks/section %}} -->
