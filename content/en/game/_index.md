@@ -1,6 +1,5 @@
 ---
-title: Documentation
-linkTitle: Docs
+title: Game
 menu: {main: {weight: 20}}
 weight: 20
 ---
