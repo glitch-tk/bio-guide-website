@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Dissection iMovie
 menu: {main: {weight: 30}}
 ---
 
