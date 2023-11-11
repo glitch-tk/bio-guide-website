@@ -1,5 +1,5 @@
 ---
-title: Community
+title: Microscope
 menu: {main: {weight: 40}}
 ---
 
