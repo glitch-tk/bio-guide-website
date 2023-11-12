@@ -20,19 +20,19 @@ title: Goldydocs
 
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
+{{% blocks/feature icon="fab" title="New chair metrics!" %}}
 The Goldydocs UI now shows chair size metrics by default.
 
 Please follow this space for updates!
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
+{{% blocks/feature icon="fab" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
 We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
+{{% blocks/feature icon="fab" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
 For announcement of latest features etc.
 {{% /blocks/feature %}}
 
@@ -41,19 +41,19 @@ For announcement of latest features etc.
 
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
+{{% blocks/feature icon="fab" title="New chair metrics!" %}}
 The Goldydocs UI now shows chair size metrics by default.
 
 Please follow this space for updates!
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
+{{% blocks/feature icon="fab" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
 We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
+{{% blocks/feature icon="fab" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
 For announcement of latest features etc.
 {{% /blocks/feature %}}
 
