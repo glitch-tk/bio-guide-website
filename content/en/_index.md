@@ -15,7 +15,7 @@ title: The Musculoskeletal System
 
 
 {{% blocks/lead color="primary" %}}
-&nbsp;
+A Journey Through Our System...
 {{% /blocks/lead %}}
 
 
