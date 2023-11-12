@@ -1,7 +1,7 @@
 ---
 title: Game
-menu: {main: {weight: 20}}
-weight: 20
+menu: {main: {weight: 49}}
+weight: 49
 ---
 
 {{% pageinfo %}}
