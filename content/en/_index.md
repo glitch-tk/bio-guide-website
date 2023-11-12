@@ -20,20 +20,18 @@ title: The Musculoskeletal System
 
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fab" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
-
-Please follow this space for updates!
+{{% blocks/feature icon="fab" title="First, Check Out Our Trifold" %}}
+Get an overview of the strucure and function of our system.
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fab" title="Read Our Pamphlet" %}}
+Learn about what happens when the musculoskeletal system is weakened by a disease called sarcopenia.
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fab" title="Watch Our Dissection Video" %}}
+Learn how to dissect a frog and take a look at the musculoskeletal system at a large scale.
 {{% /blocks/feature %}}
 
 
@@ -41,20 +39,18 @@ For announcement of latest features etc.
 
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fab" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
-
-Please follow this space for updates!
+{{% blocks/feature icon="fab" title="Look Through Our Microscope" %}}
+See skeletal muscle up close and learn how its structure relates to its function within the system.
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fab" title="Play our Game" %}}
+Summarize what you've learned in our fun game.
 {{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fab" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fab" title="See our Work Cited" %}}
+Check our sources or find more info using our work cited page, convieniently in APA format
 {{% /blocks/feature %}}
 
 
