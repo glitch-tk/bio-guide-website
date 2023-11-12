@@ -1,5 +1,5 @@
 ---
-title: Goldydocs
+title: The Musculoskeletal System
 ---
 
 {{< blocks/cover title="The Human Musculoskeletal System" image_anchor="top" height="full" >}}
