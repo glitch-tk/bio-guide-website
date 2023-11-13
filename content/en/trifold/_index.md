@@ -3,9 +3,9 @@ title: Trifold
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="Trifold" image_anchor="bottom" height="auto" %}}
 
-A sample site using the Docsy Hugo theme.
+An overview of the musculoskeletal system.
 {.mt-5}
 
 {{% /blocks/cover %}}
