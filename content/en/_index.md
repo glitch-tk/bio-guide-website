@@ -3,18 +3,16 @@ title: The Musculoskeletal System
 ---
 
 {{< blocks/cover title="The Human Musculoskeletal System" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/trifold/">
+  Get Started <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
-</a>
+
 <p class="lead mt-5">By Trinity Keise, Joanna Cao, and Dhruv Rao</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
 
-{{% blocks/lead color="primary" %}}
+{{% blocks/lead color="info" %}}
 A Journey Through Our System...
 {{% /blocks/lead %}}
 
