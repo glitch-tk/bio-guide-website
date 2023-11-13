@@ -192,7 +192,7 @@ enable = false
 
 [[params.links.developer]]
   name = "Developer mailing list"
-  url = "mailto://tkeise@students.monroe.k12.nj.us"
+  url = "mailto:tkeise@students.monroe.k12.nj.us"
   icon = "fa fa-envelope"
   desc = "Discuss development issues around the project"
 
