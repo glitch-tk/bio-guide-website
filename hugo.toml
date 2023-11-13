@@ -104,7 +104,7 @@ description = "A Docsy example site"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "Trinity Keise, Joanna Cao, and Dhruv Rao"
+copyright = "Trinity Keise"
 
 
 # First one is picked as the Twitter card image if not set on page.
