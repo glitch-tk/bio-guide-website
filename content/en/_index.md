@@ -12,7 +12,7 @@ title: The Musculoskeletal System
 {{< /blocks/cover >}}
 
 
-{{% blocks/lead color="info" %}}
+{{% blocks/lead color="primary" %}}
 A Journey Through Our System...
 {{% /blocks/lead %}}
 
