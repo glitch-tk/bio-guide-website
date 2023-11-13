@@ -3,7 +3,7 @@ title: The Musculoskeletal System
 ---
 
 {{< blocks/cover title="The Human Musculoskeletal System" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/trifold/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="trifold/">
   Get Started <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
