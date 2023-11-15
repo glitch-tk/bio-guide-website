@@ -15,7 +15,8 @@ An overview of the musculoskeletal system.
 <!-- # This is another section -->
 
 {{% blocks/lead color="primary" %}}
-<span><img src="trifold/new-image.JPG" width="400"> Checking</span>
+<span><img src="left-side.jpg" width="400"> *Skeletal Structure*
+- hello</span>
 {{% /blocks/lead %}}
 
 
@@ -31,7 +32,8 @@ An overview of the musculoskeletal system.
 <!-- # This is another section -->
 
 {{% blocks/lead color="secondary" %}}
-<span><img src="trifold/new-image.JPG" width="400"> Checking</span>
+<span><img src="right-side.jpg" width="400"> *Muscle Structure*
+- blah</span>
 {{% /blocks/lead %}}
 
 
@@ -47,7 +49,8 @@ An overview of the musculoskeletal system.
 <!-- # This is another section -->
 
 {{% blocks/lead color="info" %}}
-<span><img src="trifold/new-image.JPG" width="400"> Checking</span>
+<span><img src="middle.jpg" width="400"> *System Function*
+- blah</span>
 {{% /blocks/lead %}}
 
 
